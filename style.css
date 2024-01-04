@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main1 {
+    background-color: darkgrey;
+    width: 100%;
+    height: 50vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main2 {
+    background-color: darkgrey;
+    width: 100%;
+    height: 50vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div{
+    /* border: 2px solid red ; */
+    height: 240px ;
+    width: 250px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.d{
+    /* border: 2px solid red ; */
+    height: 240px ;
+    width: 250px;
+    padding: 20px;
+    background-color: aliceblue;
+}.p{
+    padding-top: 5px;
+}
+.h{
+    padding-top: 5px;
+}
+.fa-microphone,.fa-book{
+    font-size: 25px;
+    padding-top: 10px;
+    color: rgb(248, 248, 250);
+    background-color: rgb(4, 253, 253);
+    width: 50px;
+    height: 48px;
+    text-align: center;
+    border-radius: 50%;
+}.fa-book{
+    font-size: 25px;
+    padding-top: 10px;
+    color: rgb(248, 248, 250);
+    background-color: rgb(71, 71, 85);
+    width: 50px;
+    height: 48px;
+    text-align: center;
+    border-radius: 50%;
+}.ic{
+    font-size: 20px;
+    color: aqua;
+    font-weight: bold;
+}.iv{
+    font-size: 20px;
+    font-weight: bold;
+}
